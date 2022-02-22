@@ -6,9 +6,9 @@ import { initStore } from '../redux';
 
 
 class Principal extends App {
-    static async getServerSideProps({ Component, ctx }) {
+    static async getInitialProps({ Component, ctx }) {
         return {
-            pageProps: Component.getServerSideProps ? await Component.getServerSideProps(ctx) : {}
+            pageProps: Component.getInitialProps ? await Component.getInitialProps(ctx) : {}
         }
     }
 
