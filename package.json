@@ -1,10 +1,12 @@
 {
   "name": "bogfelts",
   "version": "1.0.0",
-  "homepage": "Site-React-Institutional/",
+  "homepage": "https://thiagomessias-code.github.io/Site-React-Institutional",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next",
     "start": "next start",
     "build": "next build"
@@ -17,6 +19,7 @@
     "async": "^3.1.0",
     "axios": "^0.19.0",
     "bootstrap": "^5.1.3",
+    "gh-pages": "^3.2.3",
     "js-cookie": "^2.2.0",
     "moment": "^2.24.0",
     "next": "^9.0.1",
