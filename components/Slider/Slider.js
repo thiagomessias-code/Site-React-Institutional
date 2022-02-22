@@ -15,49 +15,37 @@ const SliderCarrousel = () => {
         <div class="carousel-inner">
           <div class="carousel-item active">
           <div class="carousel-caption text-left">
-              <h3 class="wow fadeInRight animate__fadeInLeft animate__animated animate__bounce" data-wow-delay="0.2s">VÄLKOMMEN TILL KLINIKEN</h3>
-                <h2 class="wow fadeInRight" data-wow-delay="0.4s">Mrc perfection</h2>
-                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Kvalificerad professionell inom estetik. Kvalitet och
-                  säkerhet för botoxbehandlingar.</h4>
-                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">ATT
-                  SCHEMALÄGGA
-                  FRÅGA</a>
+              <h3 class="wow fadeInRight animate__fadeInLeft animate__animated animate__bounce" data-wow-delay="0.2s">VÄLKOMMEN TILL </h3>
+                <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
+                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
+                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
             <img src="/static/01.carousel.jpg" class="d-block w-100" alt="..." />
           </div>
           <div class="carousel-item">
           <div class="carousel-caption text-left">
-              <h3 class="wow fadeInRight" data-wow-delay="0.2s">VÄLKOMMEN TILL KLINIKEN</h3>
-                <h2 class="wow fadeInRight" data-wow-delay="0.4s">Mrc perfection</h2>
-                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Kvalificerad professionell inom estetik. Kvalitet och
-                  säkerhet för botoxbehandlingar.</h4>
-                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">ATT
-                  SCHEMALÄGGA
-                  FRÅGA</a>
+              <h3 class="wow fadeInRight animate__fadeInLeft animate__animated animate__bounce" data-wow-delay="0.2s">VÄLKOMMEN TILL </h3>
+                <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
+                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
+                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
             <img src="/static/04.carousel.jpeg" class="d-block w-100" alt="..." />
           </div>
           <div class="carousel-item">
           <div class="carousel-caption text-left">
-              <h3 class="wow fadeInRight" data-wow-delay="0.2s">VÄLKOMMEN TILL KLINIKEN</h3>
-                <h2 class="wow fadeInRight" data-wow-delay="0.4s">Mrc perfection</h2>
-                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Kvalificerad professionell inom estetik. Kvalitet och
-                  säkerhet för botoxbehandlingar.</h4>
-                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">ATT
-                  SCHEMALÄGGA
-                  FRÅGA</a>
+              <h3 class="wow fadeInRight animate__fadeInLeft animate__animated animate__bounce" data-wow-delay="0.2s">VÄLKOMMEN TILL </h3>
+                <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
+                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
+                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
             <img src="/static/03.carousel.png" class="d-block w-100" alt="..." />
           </div>
           <div class="carousel-item">
           <div class="carousel-caption text-left">
-              <h3 class="wow fadeInRight" data-wow-delay="0.2s">VÄLKOMMEN TILL KLINIKEN</h3>
-                <h2 class="wow fadeInRight" data-wow-delay="0.4s">Mrc perfection</h2>
-                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Kvalificerad professionell inom estetik. Kvalitet och
-                  säkerhet för botoxbehandlingar.</h4>
-                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">ATT
-                  SCHEMALÄGGA
-                  FRÅGA</a>
+              <h3 class="wow fadeInRight animate__fadeInLeft animate__animated animate__bounce" data-wow-delay="0.2s">VÄLKOMMEN TILL </h3>
+                <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
+                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
+                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
             <img src="/static/05.carousel.png" class="d-block w-100" alt="..." />
           </div>
