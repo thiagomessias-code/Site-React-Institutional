@@ -1,0 +1,72 @@
+ .btn-primary{
+    background-color: #532FB7;
+}
+  .rodape {
+    background-color: #532FB7;
+    padding: 60px;
+    color: #fff;
+  }
+
+  
+  .rodape a{
+    color:#6736ee;
+  }
+
+  .rodape i .fa{
+    color:#fff;
+    font-size: 1.5rem;
+    padding: 15px 0;
+  }
+
+  .rodape h2{
+    color:#fff;
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .Copyright {
+      color:  white;
+  }
+
+  .counter-section {
+      background-image: url(/static/01.loader.jpg);
+      background-repeat: no-repeat ;
+      background-attachment: fixed;
+      background-position: center;
+      height: 500px;
+      margin: 100px 0 100px;
+  }
+  .icon-box {
+      height: 100px;
+      width: 100px;
+      margin: 100px auto;
+      
+  }
+
+  .icon-box .fa{
+    display: table-cell;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    color: #fff;
+    background: #532FB7;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+}
+.counter-box p{
+font-size: 20px;
+color: #fff;
+}
+
+.counter-box .counter{
+    font-size: 40px;
+    display: block;
+    color: white;
+    font-family: "Montserrat", Arial, sans-serif;
+    width: 100%;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+    }
+
