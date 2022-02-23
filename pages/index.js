@@ -1,12 +1,14 @@
-import React, { Component } from "react";
+import React, { Component} from "react";
 import Layout from '../components/Layout';
 import Banner from "../containers/Banner";
 import Banner2 from "../containers/bannerSustentabilidade";
 import Cabecalho from "../containers/Cabecalho";
 
 
+
 import Cards from "../containers/Cards";
 import Counter from "../containers/Counter";
+import Projetos from "../containers/Projeto";
 import Rodape from "../containers/Rodape";
 import Slider from "../containers/Slider";
 
@@ -23,6 +25,7 @@ export default class Index extends Component {
                 <Banner2/>
                 <Counter/>
                 <br/>
+                <Projetos/>
                 <Rodape/>
                 
             </Layout>

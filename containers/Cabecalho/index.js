@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Logo from '../../components/Logo/Cabecalho';
-import Navbar from '../../components/Campos/Pesquisa';
+import Navbar from '../../components/Campos/Navbar';
 
 
 
@@ -36,3 +36,6 @@ class Cabecalho extends React.Component {
 }
 
 export default Cabecalho;
+
+
+

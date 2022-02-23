@@ -3,6 +3,7 @@ import React from "react";
 
 
 
+
 const bannerSus = () => {
     return (
 
@@ -10,12 +11,12 @@ const bannerSus = () => {
             <div class="container  mt-4">
                 <div class="row ">
                     <div className="col-md-6">
-                        <span className="sm">welcome</span>
+                        <span className="sm">hållbarhet</span>
                         <h2>
-                            <span className="thin">SECRETS OF SUCCESS</span>
-                            <span className="thick">OF OUR PROJECTS</span>
+                            <span className="thin">INVESTERINGAR</span>
+                            <span className="thick">FÖR EN BÄTTRE VÄRLD</span>
                         </h2>
-                        <p className="txt">Since 1980 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                        <p className="txt">Mer än av ekonomiska skäl har effektiva system potential att positivt påverka familjens budget och miljön. Därmed minskar behovet av att producera energi i stora mängder, vilket sparar naturresurser och minimerar problem i distributionsnätet.</p>
                     </div>
                     <div className="col-md-6 mt-4 carousel-sus">
                         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
