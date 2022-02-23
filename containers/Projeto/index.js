@@ -18,7 +18,7 @@ class Projetos extends Component {
                                 <div class="row mt-4 g-lg-2">
                                     <div class="col-lg-12 d-flex align-items-stretch services-wrap">
                                         <div class="services d-flex">
-                                            <div class="icon"><span class="fa fa-laptop"></span></div>
+                                            <div class="icon"><i class="fa fa-laptop"></i></div>
                                             <div class="text">
                                                 <h2>Projekt</h2>
                                                 <p class="mb-0">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -27,7 +27,7 @@ class Projetos extends Component {
                                     </div>
                                     <div class="col-lg-12 d-flex align-items-stretch services-wrap">
                                         <div class="services d-flex">
-                                            <div class="icon"><span class="fa fa-laptop"></span></div>
+                                            <div class="icon"><i class="fa fa-laptop"></i></div>
                                             <div class="text">
                                                 <h2>Earn A Certificates</h2>
                                                 <p class="mb-0">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -36,7 +36,7 @@ class Projetos extends Component {
                                     </div>
                                     <div class="col-lg-12 d-flex align-items-stretch services-wrap">
                                         <div class="services d-flex">
-                                            <div class="icon"><span class="fa fa-laptop"></span></div>
+                                            <div class="icon"><i class="fa fa-laptop"></i></div>
                                             <div class="text">
                                                 <h2>Team</h2>
                                                 <p class="mb-0">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
