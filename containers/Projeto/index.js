@@ -1,4 +1,5 @@
-import react, { Component } from "react";
+import React, { Component } from "react";
+
 
 class Projetos extends Component {
     render() {
@@ -49,6 +50,7 @@ class Projetos extends Component {
                     </div>
                 </div>
             </section>
+            
         )
     }
 }

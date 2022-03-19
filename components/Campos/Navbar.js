@@ -47,10 +47,11 @@ const Navbar = () => {
                                         
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ">Företag</a>
+                                        <Link href="/negocios"><a class="nav-link ">Företag</a></Link>
+
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link ">Hållbarhet</a>
+                                         <Link href="/sustentabilidade"><a class="nav-link ">Hållbarhet</a></Link>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link ">Kontact</a>

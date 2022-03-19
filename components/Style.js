@@ -57,7 +57,7 @@ export default () => (
 
 
   .header {
-    background-color:#9fa7b12c;
+    background-color:#3c3c413c;
     position: fixed;
     height: 80px;
     width: 100%;
@@ -67,7 +67,7 @@ export default () => (
     transition: .3s ease-in;
 }
 .header-bg{
-  background-color: white;
+  background-color: #3C3C41;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.329);
 }
 .header .navbar-expand-md .navbar-nav .nav-link {
@@ -80,7 +80,7 @@ export default () => (
   text-shadow: rgba(0, 0, 0, 0.515) 0px 2px 2px;
 }
 .header-bg .navbar-expand-md .navbar-nav .nav-link{
-  color: rgb(106, 106, 226);
+  color: white;
   font-size: 18px;
   padding: 5px 0px;
   font-weight: 400;
@@ -130,6 +130,8 @@ export default () => (
   cursor: pointer;
   float: right;
 }
+
+
 
 .slide {
   margin-top: -50px

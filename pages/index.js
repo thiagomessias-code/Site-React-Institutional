@@ -11,6 +11,8 @@ import Counter from "../containers/Counter";
 import Projetos from "../containers/Projeto";
 import Rodape from "../containers/Rodape";
 import Slider from "../containers/Slider";
+import Team from "../containers/Team";
+
 
 
 
@@ -26,6 +28,7 @@ export default class Index extends Component {
                 <Counter/>
                 <br/>
                 <Projetos/>
+                <Team/>
                 <Rodape/>
                 
             </Layout>
