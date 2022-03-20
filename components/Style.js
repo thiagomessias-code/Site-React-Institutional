@@ -220,6 +220,7 @@ padding: 20px 0 25px 0;
 }
 .about h2 .thin {
   font-weight: 100;
+  
 }
 .about h2 span {
   display: block;
@@ -236,7 +237,7 @@ padding: 20px 0 25px 0;
   line-height: 60px;
 }
 .about .box .thin {
-  font-size: 18px;
+  font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 5px;
 }
@@ -359,7 +360,6 @@ margin-top: -100px
     
   }
   }
-
     `}
     </style>
 )

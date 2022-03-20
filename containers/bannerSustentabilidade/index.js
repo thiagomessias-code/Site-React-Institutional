@@ -12,7 +12,7 @@ class Banner2 extends Component {
             <div className="col-md-6">
               <span className="sm">hållbarhet</span>
               <h2>
-                <span className="thin">INVESTERINGAR</span>
+                <span className="thin">INVESTER</span>
                 <span className="thick">FÖR EN BÄTTRE VÄRLD</span>
               </h2>
               <p className="txt">Mer än av ekonomiska skäl har effektiva system potential att positivt påverka familjens budget och miljön. Därmed minskar behovet av att producera energi i stora mängder, vilket sparar naturresurser och minimerar problem i distributionsnätet.</p>
