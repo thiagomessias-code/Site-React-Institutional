@@ -15,7 +15,7 @@ const About = () => {
                     		<div class="title">About Us</div>
                         	<h2>We Are The Leader In <br/> The Interiores</h2>
                         </div>
-                        <div class="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</div>
+                        <div class="text">Bogfelts har mångårig och gedigen erfarenhet av både små och stora entreprenader inom belysningsteknik. Med branscherfarenhet sedan 1989 har vi bred kompetens inom verksamheten med god kännedom om kundens behov och önskemål för ett välfungerande samarbete. Vi erbjuder kunden en optimerad totallösning för en kostnadseffektiv och driftsäker belysningsanläggning.</div>
                         <div class="email">Request Quote: <span class="theme_color">freequote@gmail.com</span></div>
                         <a href="about.html" class="theme-btn btn-style-three">Read More</a>
                     </div>

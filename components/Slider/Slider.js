@@ -21,8 +21,7 @@ const SliderCarrousel = () => {
               <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
             <picture>
-              <source media="(max-width:600px )" srcset="/static/01.carousel-m.jpg" type="image/png" />
-              
+              <source media="(max-width:600px )" srcset="/static/01.carousel-m.jpg" type="image/jpg" />
               <img src="/static/01.carousel.jpg" class="d-block w-100 " alt="..." />
             </picture>
           </div>
@@ -33,7 +32,11 @@ const SliderCarrousel = () => {
               <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
               <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
-            <img src="/static/04.carousel.jpeg" class="d-block w-100" alt="..." />
+            <picture>
+            <source media="(max-width:600px )" srcset="/static/03.carousel-m.jpg" type="image/jpg" />
+              <img src="/static/03.carousel.png" class="d-block w-100" alt="..." />
+              </picture>
+
           </div>
           <div class="carousel-item">
             <div class="carousel-caption text-left">
@@ -42,7 +45,10 @@ const SliderCarrousel = () => {
               <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
               <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
-            <img src="/static/03.carousel.png" class="d-block w-100" alt="..." />
+            <picture>
+            <source media="(max-width:600px )" srcset="/static/04.carousel-p.jpg" type="image/jpeg" />
+              <img src="/static/04.carousel.jpeg" class="d-block w-100" alt="..." />
+              </picture>
           </div>
           <div class="carousel-item">
             <div class="carousel-caption text-left">
@@ -51,7 +57,10 @@ const SliderCarrousel = () => {
               <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
               <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
-            <img src="/static/05.carousel.png" class="d-block w-100" alt="..." />
+            <picture>
+            <source media="(max-width:600px )" srcset="/static/05.carousel-p.png" type="image/png" />
+              <img src="/static/05.carousel.png" class="d-block w-100" alt="..." />
+              </picture>
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
