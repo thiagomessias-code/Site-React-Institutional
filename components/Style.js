@@ -49,6 +49,7 @@ export default () => (
     left: 0;
     z-index: 999;
     transition: .3s ease-in;
+    margin: 0;
 }
 .header-bg{
   background-color: #3C3C41;

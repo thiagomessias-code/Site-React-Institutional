@@ -1,5 +1,6 @@
 import React, { Component} from "react";
 import Layout from '../components/Layout';
+import Access from "../containers/Access";
 import Banner from "../containers/Banner";
 import Banner2 from "../containers/bannerSustentabilidade";
 import Cabecalho from "../containers/Cabecalho";
@@ -31,6 +32,7 @@ export default class Index extends Component {
                 <Projetos/>
                 <Team/>
                 <Video/>
+                <Access/>
                 <Rodape/>
                 
             </Layout>

@@ -132,8 +132,11 @@ section .img{
  Counter Section Style
  ========================================================================== */
  .counters {
-  background: url(01.loader.jpg) fixed;
+  background: url(/static/01.loader.jpg) fixed;
   position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
 }
 
 .counters .facts-item {
@@ -465,6 +468,37 @@ section .img{
 	width: 100%;
 	height: 100%;
 }
+
+
+.access img{
+  height: 80px;
+  width: 150px;
+}
+
+.bussines {
+  background-color: #ccc;
+  height: 500px;
+}
+
+.bussines img {
+  width: 100%;
+  margin-top: 2.5rem;
+  position: relative;
+}
+
+.bussines p {
+  margin-top: 2.5rem;
+width: 300px;
+line-height: 20px;
+}
+
+.bussines h2 {
+  margin-top: 2.5rem;
+width: 300px;
+line-height: 20px;
+}
+
+
 
 
 

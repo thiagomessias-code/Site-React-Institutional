@@ -19,10 +19,10 @@ const SliderCarrousel = () => {
               <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
               <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
               <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
-            </div>
+            </div >
             <picture>
               <source media="(max-width:600px )" srcset="/static/01.carousel-m.jpg" type="image/jpg" />
-              <img src="/static/01.carousel.jpg" class="d-block w-100 " alt="..." />
+              <img src="/static/01.carousel.jpg" class="d-block w-100" alt="..." />
             </picture>
           </div>
           <div class="carousel-item">
