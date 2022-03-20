@@ -14,38 +14,42 @@ const SliderCarrousel = () => {
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-          <div class="carousel-caption text-left">
+            <div class="carousel-caption text-left">
               <h3 class="wow fadeInRight animate__fadeInLeft animate__animated animate__bounce" data-wow-delay="0.2s">VÄLKOMMEN TILL </h3>
-                <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
-                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
-                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
+              <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
+              <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
+              <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
-            <img src="/static/01.carousel.jpg" class="d-block w-100" alt="..." />
+            <picture>
+              <source media="(max-width:600px )" srcset="/static/01.carousel-m.jpg" type="image/png" />
+              
+              <img src="/static/01.carousel.jpg" class="d-block w-100" alt="..." />
+            </picture>
           </div>
           <div class="carousel-item">
-          <div class="carousel-caption text-left">
+            <div class="carousel-caption text-left">
               <h3 class="wow fadeInRight animate__fadeInLeft animate__animated animate__bounce" data-wow-delay="0.2s">VÄLKOMMEN TILL </h3>
-                <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
-                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
-                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
+              <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
+              <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
+              <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
             <img src="/static/04.carousel.jpeg" class="d-block w-100" alt="..." />
           </div>
           <div class="carousel-item">
-          <div class="carousel-caption text-left">
+            <div class="carousel-caption text-left">
               <h3 class="wow fadeInRight animate__fadeInLeft animate__animated animate__bounce" data-wow-delay="0.2s">VÄLKOMMEN TILL </h3>
-                <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
-                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
-                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
+              <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
+              <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
+              <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
             <img src="/static/03.carousel.png" class="d-block w-100" alt="..." />
           </div>
           <div class="carousel-item">
-          <div class="carousel-caption text-left">
+            <div class="carousel-caption text-left">
               <h3 class="wow fadeInRight animate__fadeInLeft animate__animated animate__bounce" data-wow-delay="0.2s">VÄLKOMMEN TILL </h3>
-                <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
-                <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
-                <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
+              <h2 class="wow fadeInRight" data-wow-delay="0.4s">BogFelts</h2>
+              <h4 class="wow fadeInRight" data-wow-delay="0.6s">Företag specialiserat på offentlig belysning.</h4>
+              <a href="#" class="btn btn-lg btn-common btn-effect wow fadeInRight" data-wow-delay="0.9s">och kablage</a>
             </div>
             <img src="/static/05.carousel.png" class="d-block w-100" alt="..." />
           </div>

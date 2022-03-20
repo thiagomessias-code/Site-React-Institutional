@@ -12,6 +12,7 @@ import Projetos from "../containers/Projeto";
 import Rodape from "../containers/Rodape";
 import Slider from "../containers/Slider";
 import Team from "../containers/Team";
+import { Video } from "../containers/Videosection";
 
 
 
@@ -29,6 +30,7 @@ export default class Index extends Component {
                 <br/>
                 <Projetos/>
                 <Team/>
+                <Video/>
                 <Rodape/>
                 
             </Layout>

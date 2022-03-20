@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Logo from '../../components/Logo/Cabecalho';
-import Navbar from '../../components/Campos/Navbar';
+import Navbar from '../../components/Header/Navbar';
 
 
 
@@ -8,11 +8,8 @@ import Navbar from '../../components/Campos/Navbar';
 class Cabecalho extends React.Component {
     renderCabecalhoNormal(){
         return (
-            <div className="">
-                <div className="">
+            <div>
                     <Navbar/>
-                    
-                </div>
             </div>
         )
     }

@@ -8,22 +8,6 @@ export default () => (
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 
-    * {
-    box-sizing: border-box !important;
-}
-    body {
-      color: #666666;
-      background-color: #F8F8F8;
-      font-size: 14px;
-      font-family: 'Poppins', sans-serif;
-      line-height: 1.80857;
-      font-weight: normal;
-
-    }
-
-    h1,h2 {
-      font-weight: bold;
-    }
 
    .wrap {
      flex-wrap: wrap;

@@ -1,4 +1,5 @@
 import React from 'react'
+import { Video } from '../Videosection';
 
 
 const About = () => {
@@ -34,7 +35,10 @@ const About = () => {
                 
             </div>
         </div>
+        
+    <Video/>
     </section>
+
     )
 }
 
