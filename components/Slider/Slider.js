@@ -23,7 +23,7 @@ const SliderCarrousel = () => {
             <picture>
               <source media="(max-width:600px )" srcset="/static/01.carousel-m.jpg" type="image/png" />
               
-              <img src="/static/01.carousel.jpg" class="d-block w-100" alt="..." />
+              <img src="/static/01.carousel.jpg" class="d-block w-100 " alt="..." />
             </picture>
           </div>
           <div class="carousel-item">
